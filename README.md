@@ -40,16 +40,4 @@ Deploy the project using **Vercel, Netlify, or GitHub Pages**.
 
 
 
-📌 Future Improvements  
 
-🔹 Add a backend for authentication and product management  
-🔹 Improve mobile responsiveness  
-🔹 Enhance styling with animations  
-
-
-
-🙌 Contribution  
-
-Feel free to **fork** this repository, make enhancements, and submit a **pull request**.  
-
-📧 Contact: your-email@example.com  
